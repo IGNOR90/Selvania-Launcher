@@ -6,7 +6,7 @@
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Luuxis",
-    "url": "http://launcher.luuxis.fr",
+    "url": "http://93.170.221.18",
     "engines": {
         "node": "^16.x.x"
     },
@@ -32,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/craft-launch/Selvania-Launcher.git"
+        "url": "git+https://github.com/IGNOR90/Selvania-Launcher.git"
     }
 }
