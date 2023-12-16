@@ -30,6 +30,7 @@ function addAccount(data) {
     div.classList.add("account");
     div.id = data.uuid;
     div.innerHTML = `
+<!--        <img class="account-image" src="https://minotar.net/avatar/d9135e082f2244c89cb0bee234155292/64">-->
         <img class="account-image" src="https://minotar.net/helm/${data.name}/100">
         <div class="account-name">${data.name}</div>
         <div class="account-uuid">${data.uuid}</div>
