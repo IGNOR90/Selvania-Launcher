@@ -1,18 +1,18 @@
 {
-    "name": "end-piece-launcher",
-    "preductname": "End Piece Launcher",
-    "version": "1.0.0",
-    "description": "Join the adventure and became the king of pirates or an amazing admiral",
+    
+    "name": "GTO-Launcher",
+    "preductname": "Selvania Launcher",
+    "version": "2.0.2",
+    "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
-    "author": "Luuxis, Kay",
-    "url": "http://93.170.221.18/",
+    "author": "Luuxis",
+    "url": "http://93.170.221.18",
     "engines": {
-        "node": ">18.x.x"
+        "node": "^16.x.x"
     },
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
-        "build": "node build.js --build",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png",
+        "build": "node build.js",
         "dev": "nodemon --exec npm start"
     },
     "license": "CC0",
@@ -20,20 +20,18 @@
         "ext": "js,html,css"
     },
     "dependencies": {
-        "electron-updater": "^6.1.4",
-        "minecraft-java-core": "^3.8.1",
-        "node-fetch": "^2.7.0"
+        "electron-updater": "^5.0.1",
+        "minecraft-java-core": "^2.5.1",
+        "node-fetch": "^2.6.7"
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
-        "electron": "^27.0.4",
-        "electron-builder": "^24.6.4",
-        "jimp": "^0.3.5",
-        "nodemon": "^3.0.1",
-        "png2icons": "^2.0.1"
+        "electron": "^20.0.0",
+        "electron-builder": "^23.0.3",
+        "nodemon": "^2.0.16"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Fulka50/End-Piece-Launcher.git"
+        "url": "git+https://github.com/IGNOR90/Selvania-Launcher.git"
     }
 }

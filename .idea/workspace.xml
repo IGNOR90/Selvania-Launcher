@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35654b7e-c3dc-4743-9f72-6350e41951e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/wiki.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/wiki.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/icon.icns" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/icon.icns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/icon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/icon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/launcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/launcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/panels/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/panels/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/panels/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/panels/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/panels/panelSkin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/panels/panelSkin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/panels/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/panels/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/utils/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/utils/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/utils/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/utils/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/panels/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/panels/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/panels/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/panels/settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool.bat" beforeDir="false" afterPath="$PROJECT_DIR$/tool.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZX8coQuZ77vo9Tf5TuM21Qp2yT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35654b7e-c3dc-4743-9f72-6350e41951e5" name="Changes" comment="" />
+      <created>1702557149443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702557149443</updated>
+      <workItem from="1702557150844" duration="3158000" />
+      <workItem from="1702617489244" duration="9263000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1702618156828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702618156828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>
